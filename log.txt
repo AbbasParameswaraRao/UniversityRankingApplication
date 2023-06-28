@@ -1,0 +1,161 @@
+2023/06/20 11:05:04 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:08:35 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:12:17 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:13:44 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:15:37 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:16:45 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:48:14 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 11:50:00 ERROR: failed to connect to database: dial tcp :0: connectex: The requested address is not valid in its context.
+2023/06/20 12:05:43 ERROR: failed to connect to the database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: YES)
+2023/06/20 12:08:33 ERROR: failed to connect to the database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: YES)
+2023/06/20 12:12:21 ERROR: failed to connect to the database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: YES)
+2023/06/20 14:32:08 ERROR: failed to connect to the database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: YES)
+2023/06/20 14:54:34 ERROR: failed to connect to the database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: YES)
+[2023/06/20 - 15:41:54] 127.0.0.1 GET /university/9 2.5982ms
+[2023/06/20 - 15:42:06] 127.0.0.1 GET /university/9 0s
+[2023/06/20 - 15:42:11] 127.0.0.1 GET /university/80 2.0892ms
+[2023/06/20 - 15:42:19] 127.0.0.1 GET /universities 25.4503ms
+[2023/06/21 - 11:38:10] 127.0.0.1 GET /university/60 1.7207ms
+[2023/06/21 - 11:38:23] 127.0.0.1 GET /university/30423323456 2.558ms
+[2023/06/21 - 11:40:43] 127.0.0.1 GET /university/30423323456 3.639ms
+[2023/06/21 - 11:44:33] record not found
+[2023/06/21 - 11:44:33] 127.0.0.1 GET /university/30423323457 5.7609ms
+[2023/06/21 - 11:46:06] record not found
+[2023/06/21 - 11:46:06] 127.0.0.1 GET /university/30423323459 4.7156ms
+[2023/06/21 - 11:47:22] given rank university record not found
+[2023/06/21 - 11:47:22] 127.0.0.1 GET /university/304233234510 3.8559ms
+Data reretrived from Database[2023/06/21 - 11:49:36] 127.0.0.1 GET /university/100 1.4713ms
+Data reretrived from Cacahe[2023/06/21 - 11:49:40] 127.0.0.1 GET /university/100 580.4µs
+[2023/06/21 - 12:01:22] 127.0.0.1 GET /university/109 1.7279ms
+[2023/06/21 - 12:04:34] 127.0.0.1 GET /university/160 1.6359ms
+2023/06/21 12:09:53 [2023/06/21 - 12:09:53] 127.0.0.1 GET /university/168 3.3638ms
+[2023/06/21 - 12:13:40] given rank university record not found
+2023/06/21 12:13:40 [2023/06/21 - 12:13:40] 127.0.0.1 GET /university/1790 5.67ms
+2023/06/21 12:13:46 [2023/06/21 - 12:13:46] 127.0.0.1 GET /university/179 2.0279ms
+2023/06/21 12:18:11 [2023/06/21 - 12:18:11] 127.0.0.1 GET /university/180 2.7931ms
+[2023/06/21 - 12:20:18] Data reretrived from Database,Data reretrived from Cacahe[2023/06/21 - 12:21:10] Data reretrived from Database,[2023/06/21 - 12:22:26] Data reretrived from Database,[2023/06/21 - 12:27:43] Data retrieved from database
+[2023/06/21 - 12:28:46] Data retrieved from database
+[2023/06/21 - 12:29:33] Data retrieved from database
+[2023/06/21 - 12:29:49] Data retrieved from Cache
+[2023/06/21 - 12:31:11] Data retrieved from database
+[2023/06/21 - 12:33:17] Data retrieved from database
+[2023/06/21 - 12:33:17] 127.0.0.1 GET /university/190 1.3814ms
+[2023/06/21 - 12:33:18] Data retrieved from Cache
+[2023/06/21 - 12:33:18] 127.0.0.1 GET /university/190 78.7µs
+[2023/06/25 - 18:27:45] Data retrieved from database
+[2023/06/25 - 18:27:45] 127.0.0.1 GET /university/75 2.543792ms
+[2023/06/25 - 18:27:51] Data retrieved from database
+[2023/06/25 - 18:27:51] 127.0.0.1 GET /university/79 1.295625ms
+[2023/06/25 - 18:27:59] 127.0.0.1 GET /universities 15.884083ms
+[2023/06/25 - 18:29:12] Data retrieved from Cache
+[2023/06/25 - 18:29:12] 127.0.0.1 GET /university/75 533.708µs
+[2023/06/27 - 23:14:15] 127.0.0.1 GET /universities 7.35125ms
+[2023/06/27 - 23:14:24] Data retrieved from database
+[2023/06/27 - 23:14:24] 127.0.0.1 GET /university/12 2.467958ms
+[2023/06/27 - 23:18:25] 127.0.0.1 GET /universities 8.028583ms
+[2023/06/27 - 23:18:35] Data retrieved from database
+[2023/06/27 - 23:18:35] 127.0.0.1 GET /university/10 1.417334ms
+[2023/06/27 - 23:18:52] 127.0.0.1 DELETE /universitydel/15 1.364125ms
+[2023/06/27 - 23:23:32] 127.0.0.1 DELETE /universitydel/16 5.311625ms
+[2023/06/27 - 23:23:39] 127.0.0.1 GET /universities 10.383166ms
+[2023/06/27 - 23:41:55] 127.0.0.1 GET /universities 9.649209ms
+[2023/06/27 - 23:44:27] 127.0.0.1 PUT /updateUniversity/1 166ns
+[2023/06/27 - 23:44:46] 127.0.0.1 PUT /updateuniversity/1 5.965458ms
+[2023/06/27 - 23:44:53] 127.0.0.1 GET /universities 8.838209ms
+[2023/06/28 - 08:02:59] 127.0.0.1 DELETE /universitydel/16 2.829208ms
+[2023/06/28 - 08:03:26] 127.0.0.1 GET /universities 8.971459ms
+[2023/06/28 - 08:03:51] Data retrieved from database
+[2023/06/28 - 08:03:51] 127.0.0.1 GET /university/10 1.522708ms
+[2023/06/28 - 08:03:56] Data retrieved from Cache
+[2023/06/28 - 08:03:56] 127.0.0.1 GET /university/10 84.625µs
+[2023/06/28 - 14:34:47] 127.0.0.1 GET /universitydel/16 125ns
+[2023/06/28 - 14:34:55] 127.0.0.1 GET /universityl/16 125ns
+[2023/06/28 - 14:35:03] Data retrieved from database
+[2023/06/28 - 14:35:03] 127.0.0.1 GET /university/16 1.335709ms
+[2023/06/28 - 14:35:07] Data retrieved from Cache
+[2023/06/28 - 14:35:07] 127.0.0.1 GET /university/16 428.541µs
+[2023/06/28 - 14:35:24] given rank university record not found
+[2023/06/28 - 14:35:24] 127.0.0.1 GET /university/16809 2.864625ms
+[2023/06/28 - 14:36:30] Data retrieved from database
+[2023/06/28 - 14:36:30] 127.0.0.1 GET /university/1 1.979292ms
+[2023/06/28 - 14:36:44] Data retrieved from database
+[2023/06/28 - 14:36:44] 127.0.0.1 GET /university/2 1.402042ms
+[2023/06/28 - 14:38:10] 127.0.0.1 PUT /updateuniversity/2 6.298416ms
+[2023/06/28 - 14:38:34] Data retrieved from Cache
+[2023/06/28 - 14:38:34] 127.0.0.1 GET /university/1 105.208µs
+[2023/06/28 - 14:39:00] 127.0.0.1 PUT /updateuniversity/2 3.8265ms
+[2023/06/28 - 14:39:14] Data retrieved from Cache
+[2023/06/28 - 14:39:14] 127.0.0.1 GET /university/2 207.542µs
+[2023/06/28 - 14:39:21] Data retrieved from Cache
+[2023/06/28 - 14:39:21] 127.0.0.1 GET /university/1 124.916µs
+[2023/06/28 - 14:39:27] Data retrieved from Cache
+[2023/06/28 - 14:39:27] 127.0.0.1 GET /university/1 917.625µs
+[2023/06/28 - 14:39:28] Data retrieved from Cache
+[2023/06/28 - 14:39:28] 127.0.0.1 GET /university/1 92.541µs
+[2023/06/28 - 14:39:50] Data retrieved from Cache
+[2023/06/28 - 14:39:50] 127.0.0.1 GET /university/2 1.480042ms
+[2023/06/28 - 14:40:26] 127.0.0.1 PUT /updateuniversity/3 3.431167ms
+[2023/06/28 - 14:40:32] Data retrieved from database
+[2023/06/28 - 14:40:32] 127.0.0.1 GET /university/3 1.030625ms
+[2023/06/28 - 14:41:15] Data retrieved from Cache
+[2023/06/28 - 14:41:15] 127.0.0.1 GET /university/1 335.708µs
+[2023/06/28 - 14:47:43] 127.0.0.1 PUT /updateuniversity/4 4.583167ms
+[2023/06/28 - 14:50:08] Data retrieved from database
+[2023/06/28 - 14:50:08] 127.0.0.1 GET /university/1 1.103417ms
+[2023/06/28 - 14:52:12] 127.0.0.1 PUT /updateuniversity/1 3.975583ms
+[2023/06/28 - 14:52:24] Data retrieved from Cache
+[2023/06/28 - 14:52:24] 127.0.0.1 GET /university/1 97.708µs
+[2023/06/28 - 14:53:22] Data retrieved from database
+[2023/06/28 - 14:53:22] 127.0.0.1 GET /university/1 1.656333ms
+[2023/06/28 - 14:53:39] 127.0.0.1 PUT /updateuniversity/1 4.316583ms
+[2023/06/28 - 14:53:59] Data retrieved from database
+[2023/06/28 - 14:53:59] 127.0.0.1 GET /university/1 1.116834ms
+[2023/06/28 - 14:54:03] Data retrieved from database
+[2023/06/28 - 14:54:03] 127.0.0.1 GET /university/1 1.027458ms
+[2023/06/28 - 14:54:04] Data retrieved from database
+[2023/06/28 - 14:54:04] 127.0.0.1 GET /university/1 1.405167ms
+[2023/06/28 - 14:54:04] Data retrieved from database
+[2023/06/28 - 14:54:04] 127.0.0.1 GET /university/1 1.834125ms
+[2023/06/28 - 14:54:05] Data retrieved from database
+[2023/06/28 - 14:54:05] 127.0.0.1 GET /university/1 842.625µs
+[2023/06/28 - 14:54:05] Data retrieved from database
+[2023/06/28 - 14:54:05] 127.0.0.1 GET /university/1 1.198292ms
+[2023/06/28 - 14:54:05] Data retrieved from database
+[2023/06/28 - 14:54:05] 127.0.0.1 GET /university/1 1.178292ms
+[2023/06/28 - 14:54:06] Data retrieved from database
+[2023/06/28 - 14:54:06] 127.0.0.1 GET /university/1 1.285625ms
+[2023/06/28 - 14:54:06] Data retrieved from database
+[2023/06/28 - 14:54:06] 127.0.0.1 GET /university/1 833.834µs
+[2023/06/28 - 14:54:07] Data retrieved from database
+[2023/06/28 - 14:54:07] 127.0.0.1 GET /university/1 1.212542ms
+[2023/06/28 - 14:54:08] Data retrieved from database
+[2023/06/28 - 14:54:08] 127.0.0.1 GET /university/1 1.051916ms
+[2023/06/28 - 14:54:09] Data retrieved from database
+[2023/06/28 - 14:54:09] 127.0.0.1 GET /university/1 1.141459ms
+[2023/06/28 - 14:54:09] Data retrieved from database
+[2023/06/28 - 14:54:09] 127.0.0.1 GET /university/1 1.324667ms
+[2023/06/28 - 15:00:33] 127.0.0.1 PUT /updateUniversity/2 125ns
+2023/06/28 15:00:33 [2023/06/28 - 15:00:33] 127.0.0.1 PUT /updateUniversity/2 125ns
+
+2023/06/28 15:00:45 Successfully updated university for rank 2
+[2023/06/28 - 15:00:45] 127.0.0.1 PUT /updateuniversity/2 4.11475ms
+2023/06/28 15:00:45 [2023/06/28 - 15:00:45] 127.0.0.1 PUT /updateuniversity/2 4.11475ms
+
+2023/06/28 15:02:48 Successfully updated university for rank 4
+2023/06/28 15:02:48 [2023/06/28 - 15:02:48] 127.0.0.1 PUT /updateuniversity/4 4.335542ms
+
+2023/06/28 15:13:02 [2023/06/28 - 15:13:02] 127.0.0.1 GET /universities 8.711792ms
+
+2023/06/28 15:13:15 [2023/06/28 - 15:13:15] Data retrieved from database
+2023/06/28 15:13:15 [2023/06/28 - 15:13:15] 127.0.0.1 GET /university/10 1.113208ms
+
+2023/06/28 15:13:39 Successfully updated university for rank 1
+2023/06/28 15:13:39 [2023/06/28 - 15:13:39] 127.0.0.1 PUT /updateuniversity/1 3.799416ms
+
+2023/06/28 15:15:15 [2023/06/28 - 15:15:15] 127.0.0.1 DELETE /deleteeuniversity/4 125ns
+
+2023/06/28 15:15:22 [2023/06/28 - 15:15:22] 127.0.0.1 DELETE /deleteuniversity/4 83ns
+
+2023/06/28 15:16:07 Successfully deleted university with rank 4
+2023/06/28 15:16:07 [2023/06/28 - 15:16:07] 127.0.0.1 DELETE /universitydel/4 6.654583ms
+
